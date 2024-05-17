@@ -1,0 +1,3 @@
+Should be possible to add by using GitHubtoFusion360 add in from the store. 
+
+This is a script for Fusion360 that adds the ability to plot a function, specifying something like math.log(x), or math.sin(x), and a range. It creates a spline of the function. 
